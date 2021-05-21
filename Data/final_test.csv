@@ -1,0 +1,6 @@
+id,tweet,label,model2_fake_x,model2_real_x,model2_fake_y,model2_real_y,username_real,username_fake,domain_real,domain_fake,classfake_pred,classtrue_pred
+1,chinese converting islam realising muslim affected coronavirus covd19 country,fake,0.884681713,0.11531828699999999,0.894356006,0.105643994,0.0,0.0,0.0,0.0,1.3318597159999999,0.168140284
+2,11 13 people diamond princess cruise ship intially tested negative tests japan later confirmed positive united states,fake,0.252836144,0.7471638559999999,0.0,1.0,0.0,0.0,0.0,0.0,0.252836144,1.2471638559999998
+3,covid19 caused bacterium virus treated aspirin,fake,0.843795524,0.156204476,0.859564165,0.140435835,0.0,0.0,0.0,0.0,1.2735776065,0.2264223935
+4,mike pence rnc speech praises donald trump’s covid19 “seamless” partnership governors leaves presidents state feuds httpstcoqj6hsewtgb rnc2020 httpstcoofoerzdfyy,fake,0.8478941179999999,0.152105882,1.0,0.0,0.0,0.0,0.0,1.0,1.347894118,0.152105882
+5,610 skys edconwaysky explains latest covid19 data government announcement get coronavirus data here👇 httpstcojvgzlsbfjh httpstcopygskxesbg,real,0.42592959,0.57407041,0.375,0.625,0.0,0.0,1.0,0.0,0.61342959,0.88657041
